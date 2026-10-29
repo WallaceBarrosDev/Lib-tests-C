@@ -11,4 +11,4 @@
 > Projeto em fase inicial, verção 0.1 não disponível para testes ainda.
 
 > [!INFO] Equipe de desenvolvimento
-> [Wallace Barros da Cruz](https://github.com/wallace-dev) - so eu por enquanto XD
+> [Wallace Barros da Cruz](https://github.com/WallaceBarrosDev) - so eu por enquanto XD
